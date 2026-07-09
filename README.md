@@ -1,11 +1,7 @@
-# C-156
+# Salmon-Isle
 
-C-156及其周边地区旅居指南——助您畅游塔斯提亚
+这是我的个人博客网站，地址：https://salmon-isle.com
+欢迎您访问😊
 
-Travel guide to C-156 and Its surrounding areas – Helping you explore tastia with ease
-
-
-**注意事项**
-- 请尽量只删改自己上传的文件
-- 请尽量用 Markdown 格式
-- 欢迎补充
+- 这是一个真实存在的地区，位于大洋的某处，因盛产鲑鱼而闻名；
+- 如果你从未听说过这个地方，那么你已经落后本网站97.82%的访问者了。
